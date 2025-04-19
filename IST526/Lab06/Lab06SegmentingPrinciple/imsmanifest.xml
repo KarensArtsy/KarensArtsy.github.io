@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_60tiXu5vWsn" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Lab06SegmentingPrinciple</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Lab06SegmentingPrinciple_ORG">
+    <organization identifier="Lab06SegmentingPrinciple_ORG">
+      <title>Lab06SegmentingPrinciple</title>
+      <item identifier="Lab03SegmentingPrinciple_SCO" isvisible="true" identifierref="__60tiXu5vWsn_RES">
+        <title>Lab06SegmentingPrinciple</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__60tiXu5vWsn_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6A7jZanvi3Z_M_810_810.png" />
+      <file href="story_content/5aOOGueleJy_44100_48_0.mp3" />
+      <file href="mobile/5lHCXBZHdtY_X_M_460_460.png" />
+      <file href="story_content/6RYxfjbaqqt_44100_48_0.mp3" />
+      <file href="story_content/6Io3mKzbcOO.js" />
+      <file href="story_content/5kHwZNZODQz.js" />
+      <file href="story_content/6gwM2sOveg5.js" />
+      <file href="story_content/5w65tKQu4k5_44100_48_0.mp3" />
+      <file href="story_content/6HDcXvhQu8V.js" />
+      <file href="mobile/5c0BmSFS4nr_M_810_810.png" />
+      <file href="story_content/6gw5mymt3GR_44100_48_0.mp3" />
+      <file href="mobile/5eYqzGp8nWT.png" />
+      <file href="story_content/6BMPMMK8aAs_44100_48_0.mp3" />
+      <file href="mobile/6Ke6tvplvVF_X_M_810_810.png" />
+      <file href="story_content/6WpuluEm8Em_44100_48_0.mp3" />
+      <file href="mobile/6Msu5zz0aHv_M_810_810.png" />
+      <file href="story_content/5udaAqtKO2O_44100_48_0.mp3" />
+      <file href="mobile/5noo3Pbin6z_X_M_810_810.png" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5dprqGueuKN.js" />
+      <file href="html5/data/js/5evQW2ZdgS0.js" />
+      <file href="html5/data/js/5hYlYv1Hql5.js" />
+      <file href="html5/data/js/5t6ciM089ik.js" />
+      <file href="html5/data/js/5u4imhCqnsC.js" />
+      <file href="html5/data/js/6cpEK6BxvHm.js" />
+      <file href="html5/data/js/6hUQpCsHvUp.js" />
+      <file href="html5/data/js/6p0MjCTp1Y9.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
