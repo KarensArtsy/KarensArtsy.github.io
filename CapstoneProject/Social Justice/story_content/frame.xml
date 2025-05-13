@@ -6,8 +6,8 @@
     <layout name="npxnabnsnfns10111000101" font="Lato" controllayout="npxnabnsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
     <layout name="npnxnanbnsnfns10111000101" font="Lato" controllayout="npnxnanbnsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
     <layout name="pxabnsnfns10111000100" font="Lato" controllayout="pxabnsnfns10111000100" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
+    <layout name="npxnabnsnfns00000000101" font="Lato" controllayout="npxnabnsnfns00000000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
     <layout name="pnxanbsnfns10111000101" font="Lato" controllayout="pnxanbsnfns10111000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
-    <layout name="npnxnanbnsnfns00000000101" font="Lato" controllayout="npnxnanbnsnfns00000000101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
     <layout name="pnxanbnsnfns00001100101" font="Lato" controllayout="pnxanbnsnfns00001100101" colorscheme="pxabnsnfns10111000101" string_table="pxabnsnfns10111000101" />
   </layouts>
   <control_options>
@@ -51,7 +51,7 @@
       </optiongroup>
       <optiongroup name="menuoptions">
         <options>
-          <option name="flow" value="restricted" />
+          <option name="flow" value="free" />
           <option name="wraplistitems" value="true" />
           <option name="tooltips" value="true" />
           <option name="autocollapse" value="true" />
@@ -231,6 +231,31 @@
       </control>
       <control name="close_btn" enabled="false" />
     </control_layout>
+    <control_layout name="npxnabnsnfns00000000101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="fullScreenToggle" enabled="false" />
+      <control name="playbackSpeedControl" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="false">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
     <control_layout name="pnxanbsnfns10111000101">
       <control name="volume" enabled="true" />
       <control name="seekbar" enabled="true" />
@@ -250,31 +275,6 @@
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
       <control name="outline" enabled="true">
-        <controls>
-          <control name="search" enabled="false" />
-        </controls>
-      </control>
-      <control name="close_btn" enabled="true" />
-    </control_layout>
-    <control_layout name="npnxnanbnsnfns00000000101">
-      <control name="volume" enabled="true" />
-      <control name="seekbar" enabled="false" />
-      <control name="replay" enabled="false" />
-      <control name="pauseplay" enabled="false" />
-      <control name="logo" enabled="false" />
-      <control name="previous" enabled="false" />
-      <control name="next" enabled="false" />
-      <control name="swipeleft" enabled="false" />
-      <control name="swiperight" enabled="false" />
-      <control name="fullScreenToggle" enabled="false" />
-      <control name="playbackSpeedControl" enabled="true" />
-      <control name="submit" enabled="false" />
-      <control name="finish" enabled="false" />
-      <control name="submitall" enabled="false" />
-      <control name="resources" enabled="false" />
-      <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="false" />
-      <control name="outline" enabled="false">
         <controls>
           <control name="search" enabled="false" />
         </controls>
@@ -1536,7 +1536,6 @@
       <string id="closed_captions">Captions</string>
       <string id="closedcaptions_shortcut">Toggle captions</string>
       <string id="comma_key">Comma</string>
-      <string id="continue">Continue</string>
       <string id="continueresponsive">Continue</string>
       <string id="ctrl_key">Ctrl</string>
       <string id="desktop_start">Start Course</string>
@@ -1627,6 +1626,7 @@
       <string id="video_transcript_select_track">Select track</string>
       <string id="video_transcript_title">Transcripts</string>
       <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="continue">Continue</string>
     </string_table>
   </string_tables>
   <fonts>
@@ -1644,16 +1644,21 @@
         <slidelink slideid="_player.6TPTuk8vM3m" displaytext="Social Justice" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6TPTuk8vM3m.5sW1PgHmgsS" displaytext="Dimension 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6TPTuk8vM3m.5nOJkiUwh1z" displaytext="Type name" expand="false" type="slide" />
             <slidelink slideid="_player.6TPTuk8vM3m.5mgzAkpDJls" displaytext="What are Social Structures" expand="false" type="slide" />
             <slidelink slideid="_player.6TPTuk8vM3m.5vTLhoyiVB2" displaytext="What is Social Justice?" expand="false" type="slide" />
             <slidelink slideid="_player.6TPTuk8vM3m.6I6q6D6DgTU" displaytext="5 Key Principles 1-3" expand="false" type="slide" />
+            <slidelink slideid="_player.6TPTuk8vM3m.5gdmUGpzyfx" displaytext="Eduational Inequality" expand="false" type="slide" />
             <slidelink slideid="_player.6TPTuk8vM3m.64da6sPFKIF" displaytext="5 Key Principles 4-5" expand="false" type="slide" />
             <slidelink slideid="_player.6TPTuk8vM3m.67LdeZZa7Z0" displaytext="Justice as Fairness" expand="false" type="slide" />
             <slidelink slideid="_player.6TPTuk8vM3m.6IFfburEVQ9" displaytext="Justice as Circumstantial" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="" displaytext="Quiz" expand="true" type="slide" />
-        <slidelink slideid="" displaytext="Course Certificate" expand="true" type="slide" />
+        <slidelink slideid="_player.5XhinmXrMWS" displaytext="Quiz" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5XhinmXrMWS.6SAWzVjtKu1" displaytext="Exam Update: Next Steps" expand="false" type="slide" />
+          </links>
+        </slidelink>
         <slidelink slideid="" displaytext="References" expand="true" type="slide" />
       </links>
     </outline>
