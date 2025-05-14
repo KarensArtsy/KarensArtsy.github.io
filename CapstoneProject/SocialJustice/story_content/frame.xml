@@ -74,7 +74,7 @@
           <option name="closed_captions" value="true" />
           <option name="settings" value="true" />
           <option name="playbackSpeedControl" value="true" />
-          <option name="fullScreenToggle" value="false" />
+          <option name="fullScreenToggle" value="true" />
         </options>
       </optiongroup>
       <optiongroup name="bottombaroptions">
@@ -116,7 +116,7 @@
       <control name="next" enabled="false" />
       <control name="swipeleft" enabled="false" />
       <control name="swiperight" enabled="false" />
-      <control name="fullScreenToggle" enabled="false" />
+      <control name="fullScreenToggle" enabled="true" />
       <control name="playbackSpeedControl" enabled="true" />
       <control name="submit" enabled="true" />
       <control name="finish" enabled="false" />
@@ -141,7 +141,7 @@
       <control name="next" enabled="true" />
       <control name="swipeleft" enabled="true" />
       <control name="swiperight" enabled="true" />
-      <control name="fullScreenToggle" enabled="false" />
+      <control name="fullScreenToggle" enabled="true" />
       <control name="playbackSpeedControl" enabled="true" />
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
@@ -166,7 +166,7 @@
       <control name="next" enabled="true" />
       <control name="swipeleft" enabled="false" />
       <control name="swiperight" enabled="true" />
-      <control name="fullScreenToggle" enabled="false" />
+      <control name="fullScreenToggle" enabled="true" />
       <control name="playbackSpeedControl" enabled="true" />
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
@@ -191,7 +191,7 @@
       <control name="next" enabled="false" />
       <control name="swipeleft" enabled="false" />
       <control name="swiperight" enabled="false" />
-      <control name="fullScreenToggle" enabled="false" />
+      <control name="fullScreenToggle" enabled="true" />
       <control name="playbackSpeedControl" enabled="true" />
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
@@ -216,7 +216,7 @@
       <control name="next" enabled="true" />
       <control name="swipeleft" enabled="true" />
       <control name="swiperight" enabled="true" />
-      <control name="fullScreenToggle" enabled="false" />
+      <control name="fullScreenToggle" enabled="true" />
       <control name="playbackSpeedControl" enabled="true" />
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
@@ -241,7 +241,7 @@
       <control name="next" enabled="true" />
       <control name="swipeleft" enabled="false" />
       <control name="swiperight" enabled="true" />
-      <control name="fullScreenToggle" enabled="false" />
+      <control name="fullScreenToggle" enabled="true" />
       <control name="playbackSpeedControl" enabled="true" />
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
@@ -266,7 +266,7 @@
       <control name="next" enabled="false" />
       <control name="swipeleft" enabled="true" />
       <control name="swiperight" enabled="false" />
-      <control name="fullScreenToggle" enabled="false" />
+      <control name="fullScreenToggle" enabled="true" />
       <control name="playbackSpeedControl" enabled="true" />
       <control name="submit" enabled="true" />
       <control name="finish" enabled="false" />
@@ -291,7 +291,7 @@
       <control name="next" enabled="true" />
       <control name="swipeleft" enabled="true" />
       <control name="swiperight" enabled="true" />
-      <control name="fullScreenToggle" enabled="false" />
+      <control name="fullScreenToggle" enabled="true" />
       <control name="playbackSpeedControl" enabled="true" />
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
