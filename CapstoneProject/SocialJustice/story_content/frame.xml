@@ -64,8 +64,8 @@
           <option name="volume" value="true" />
           <option name="seekbar" value="true">
             <options>
-              <option name="readonly" value="true" />
-              <option name="readonlyOnce" value="true" />
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
             </options>
           </option>
           <option name="pauseplay" value="true" />
@@ -1643,7 +1643,6 @@
       <links>
         <slidelink slideid="_player.6TPTuk8vM3m" displaytext="Social Justice" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6TPTuk8vM3m.5mgzAkpDJls" displaytext="Dimension 1" expand="false" type="slide" />
             <slidelink slideid="_player.6TPTuk8vM3m.6OWaPhJWI1e" displaytext="Overview" expand="false" type="slide" />
             <slidelink slideid="_player.6TPTuk8vM3m.5dVWQPdMZjm" displaytext="What are Social Structures" expand="false" type="slide" />
             <slidelink slideid="_player.6TPTuk8vM3m.5vTLhoyiVB2" displaytext="What is Social Justice?" expand="false" type="slide" />
