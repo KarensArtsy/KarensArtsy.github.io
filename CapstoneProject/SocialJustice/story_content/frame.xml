@@ -1617,18 +1617,46 @@
       <links>
         <slidelink slideid="_player.6TPTuk8vM3m" displaytext="Social Justice" expand="true" type="slide">
           <links>
+            <slidelink slideid="_player.6TPTuk8vM3m.5ibjsolKt00" displaytext="Title" expand="false" type="slide" />
             <slidelink slideid="_player.6TPTuk8vM3m.6OWaPhJWI1e" displaytext="Overview" expand="false" type="slide" />
+            <slidelink slideid="_player.6TPTuk8vM3m.5nOJkiUwh1z" displaytext="Type name" expand="false" type="slide" />
+            <slidelink slideid="_player.6TPTuk8vM3m.5mgzAkpDJls" displaytext="Dimension 1" expand="false" type="slide" />
             <slidelink slideid="_player.6TPTuk8vM3m.5dVWQPdMZjm" displaytext="What are Social Structures" expand="false" type="slide" />
-            <slidelink slideid="_player.6TPTuk8vM3m.5vTLhoyiVB2" displaytext="What is Social Justice?" expand="false" type="slide" />
             <slidelink slideid="_player.6TPTuk8vM3m.5gdmUGpzyfx" displaytext="Eduational Inequality" expand="false" type="slide" />
+            <slidelink slideid="_player.6TPTuk8vM3m.6NYf4J5Z2xX" displaytext="LoA Knowledge Check" expand="false" type="slide" />
+            <slidelink slideid="_player.6TPTuk8vM3m.5vTLhoyiVB2" displaytext="What is Social Justice?" expand="false" type="slide" />
+            <slidelink slideid="_player.6TPTuk8vM3m.5ao8GjiQQbz" displaytext="5 Key Principles" expand="false" type="slide" />
             <slidelink slideid="_player.6TPTuk8vM3m.6I6q6D6DgTU" displaytext="5 Key Principles 1-3" expand="false" type="slide" />
             <slidelink slideid="_player.6TPTuk8vM3m.64da6sPFKIF" displaytext="5 Key Principles 4-5" expand="false" type="slide" />
+            <slidelink slideid="_player.6TPTuk8vM3m.5nl4JzvAST9" displaytext="SJ Key 4 Q7" expand="false" type="slide" />
             <slidelink slideid="_player.6TPTuk8vM3m.67LdeZZa7Z0" displaytext="Justice as Fairness" expand="false" type="slide" />
             <slidelink slideid="_player.6TPTuk8vM3m.6IFfburEVQ9" displaytext="Justice as Circumstantial" expand="false" type="slide" />
+            <slidelink slideid="_player.6TPTuk8vM3m.6Ou29erFpR3" displaytext="Justice knowledge check" expand="false" type="slide" />
+            <slidelink slideid="_player.6TPTuk8vM3m.5vCZFLdzhCc" displaytext="Wrap-Up" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="" displaytext="Quiz" expand="true" type="slide" />
-        <slidelink slideid="" displaytext="References" expand="true" type="slide" />
+        <slidelink slideid="_player.5XhinmXrMWS" displaytext="Quiz" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5XhinmXrMWS.6fW18QEmnsh" displaytext="LoA Meso Q1" expand="false" type="slide" />
+            <slidelink slideid="_player.5XhinmXrMWS.66vxB2YpmkA" displaytext="LoA Macro Q2" expand="false" type="slide" />
+            <slidelink slideid="_player.5XhinmXrMWS.6HeDwk2bBf7" displaytext="LoA Micro Q3" expand="false" type="slide" />
+            <slidelink slideid="_player.5XhinmXrMWS.5cIQXVaRBIY" displaytext="SJ Core Q4" expand="false" type="slide" />
+            <slidelink slideid="_player.5XhinmXrMWS.5UuFbQBg7u1" displaytext="SJ TF Q5" expand="false" type="slide" />
+            <slidelink slideid="_player.5XhinmXrMWS.6BgVtAjvjdS" displaytext="SJ TF Q6" expand="false" type="slide" />
+            <slidelink slideid="_player.5XhinmXrMWS.5X3yx7plFWF" displaytext="SJ Key 4 Q7" expand="false" type="slide" />
+            <slidelink slideid="_player.5XhinmXrMWS.5smIJYKivvT" displaytext="SJ Key 1 Q8" expand="false" type="slide" />
+            <slidelink slideid="_player.5XhinmXrMWS.5spwwt91qLg" displaytext="SJ Key 3 Q9" expand="false" type="slide" />
+            <slidelink slideid="_player.5XhinmXrMWS.5VPhaCKI1NL" displaytext="SJ Key 5 Q10" expand="false" type="slide" />
+            <slidelink slideid="_player.5XhinmXrMWS.6EyrcHrBMgY" displaytext="SJ Key 2 Q11" expand="false" type="slide" />
+            <slidelink slideid="_player.5XhinmXrMWS.6nh8l3bBeX3" displaytext="Justice Fair Q12" expand="false" type="slide" />
+            <slidelink slideid="_player.5XhinmXrMWS.6N7GWyq7ynN" displaytext="Justice Circumstantial  Q13" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6RtaFN9EiHB" displaytext="References" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6RtaFN9EiHB.6EK59RhGpBd" displaytext="References" expand="false" type="slide" />
+          </links>
+        </slidelink>
       </links>
     </outline>
   </nav_data>
