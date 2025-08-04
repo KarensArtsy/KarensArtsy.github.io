@@ -46,6 +46,7 @@
             </options>
           </option>
           <option name="logoAltText" />
+          <option name="logoAltTextEnabled" value="true" />
         </options>
       </optiongroup>
       <optiongroup name="menuoptions">
@@ -1601,6 +1602,17 @@
       <string id="video_transcript_title">Transcripts</string>
       <string id="zoom_to_fit">Zoom to fit</string>
       <string id="continue">Continue</string>
+      <string id="outline_container">Menu</string>
+      <string id="acc_search_results_status">%count% results found for %term%</string>
+      <string id="invalid_prompt_button">OK</string>
+      <string id="invalid_prompt_message">You must complete the question before submitting.</string>
+      <string id="invalid_prompt_title">Invalid Answer</string>
+      <string id="print_prompt_button">OK</string>
+      <string id="print_prompt_title">Enter name</string>
+      <string id="print_prompt_message">Enter your name in the field below:</string>
+      <string id="timer_prompt_button">OK</string>
+      <string id="timer_prompt_title">Time Limit Exceeded</string>
+      <string id="timer_prompt_message">You have reached the time limit set for the quiz. Press 'OK' to continue.</string>
     </string_table>
   </string_tables>
   <fonts>
@@ -1624,7 +1636,7 @@
             <slidelink slideid="_player.6TPTuk8vM3m.5dVWQPdMZjm" displaytext="What are Social Structures" expand="false" type="slide" />
             <slidelink slideid="_player.6TPTuk8vM3m.5gdmUGpzyfx" displaytext="Educational Inequality" expand="false" type="slide" />
             <slidelink slideid="_player.6TPTuk8vM3m.6NYf4J5Z2xX" displaytext="LoA Knowledge Check" expand="false" type="slide" />
-            <slidelink slideid="_player.6TPTuk8vM3m.5vTLhoyiVB2" displaytext="What is Social Justice?" expand="false" type="slide" />
+            <slidelink slideid="_player.6TPTuk8vM3m.5vTLhoyiVB2" displaytext="Defining Social Justice?" expand="false" type="slide" />
             <slidelink slideid="_player.6TPTuk8vM3m.5ao8GjiQQbz" displaytext="5 Key Principles" expand="false" type="slide" />
             <slidelink slideid="_player.6TPTuk8vM3m.6I6q6D6DgTU" displaytext="5 Key Principles 1-3" expand="false" type="slide" />
             <slidelink slideid="_player.6TPTuk8vM3m.64da6sPFKIF" displaytext="5 Key Principles 4-5" expand="false" type="slide" />
